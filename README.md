@@ -1,15 +1,15 @@
-2. CYBER / HACKER STYLE
+<h1 align="center">
+  <code>VAIBHAV.SYS</code>
+</h1>
 
-VAIBHAV.SYS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+ONLINE+%5D;B.Tech+CSE+Student;Android+%2B+AI%2FML+Explorer;Building+KAVACH;Turning+Ideas+Into+Code..." />
+</p>
 
-[ SYSTEM ONLINE ]
-
-Developer        : Aspiring Software Engineer
-Focus            : Android + AI/ML
-Languages        : C/C++ | Kotlin
-Current Build    : KAVACH
-Mission          : Build things that matter
-
-> code
-> build
-> improve
+<p align="center">
+<code>Android</code> •
+<code>Kotlin</code> •
+<code>C/C++</code> •
+<code>Firebase</code> •
+<code>AI/ML</code>
+</p>
