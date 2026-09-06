@@ -1,173 +1,242 @@
-<!-- ====================================================== -->
-<!--                 VAIBHAV SINGH | GITHUB                  -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                 VAIBHAV SINGH | PROFILE                     -->
+<!-- ========================================================== -->
 
 
-<!-- ===================== NEON HEADER ===================== -->
+<!-- ===================== HERO HEADER ===================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=VAIBHAV%20SINGH&fontAlign=50&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Explorer&descAlign=50&descAlignY=58&color=0:00F5FF,50:7B2CFF,100:FF00CC&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00E5FF,50:7C3AED,100:FF00C8&text=VAIBHAV%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=BUILD%20%E2%80%A2%20CODE%20%E2%80%A2%20CREATE&descAlignY=62&descSize=18"/>
 </p>
 
 
-<!-- ===================== PROFILE PHOTO ===================== -->
+<!-- ===================== INTRO ===================== -->
 
 <p align="center">
-  <img src="./PROFILE%20PHOTO.jpg" width="210" alt="Vaibhav Singh"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2300&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Booting+VAIBHAV.SYS...;%3E+System+Online+%E2%9C%93;%3E+B.Tech+CSE+Student;%3E+Android+Developer+in+Progress;%3E+Exploring+Artificial+Intelligence;%3E+Building+KAVACH;%3E+Turning+Ideas+Into+Reality..." />
 </p>
 
 
-<!-- ===================== ANIMATED INTRO ===================== -->
+<!-- ===================== PROFILE SECTION ===================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+VAIBHAV.SYS...;%3E+System+Online+%E2%9C%93;%3E+B.Tech+CSE+Student;%3E+Building+KAVACH...;%3E+Exploring+Android+%2B+AI%2FML;%3E+Turning+Ideas+Into+Code..." />
-</p>
+<table align="center">
+<tr>
 
-<p align="center">
-  <b>Software Developer in Progress</b>
-</p>
+<td width="35%" align="center">
 
-<p align="center">
-  Android Development &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Problem Solving
-</p>
+<img src="./PROFILE%20PHOTO.jpg" width="220"/>
+
+<br><br>
+
+<b>VAIBHAV SINGH</b>
+
+<br>
+
+<sub>B.Tech CSE Student</sub>
+
+<br>
+
+<sub>Aspiring Software Developer</sub>
+
+</td>
+
+
+<td width="65%">
+
+```bash
+┌──[ vaibhav@github ]
+│
+├─ ROLE
+│  └─ Aspiring Software Developer
+│
+├─ CURRENT FOCUS
+│  ├─ Android Development
+│  ├─ Artificial Intelligence
+│  ├─ Machine Learning
+│  └─ Problem Solving
+│
+├─ CURRENT BUILD
+│  └─ KAVACH
+│
+└─ STATUS
+   └─ Learning • Building • Improving
+```
+
+</td>
+
+</tr>
+</table>
+
 
 <br>
 
 
-<!-- ===================== TERMINAL ===================== -->
+<!-- ===================== QUOTE ===================== -->
 
-## `> ./whoami`
-
-```bash
-vaibhav@github:~$ whoami
-
-NAME             = "Vaibhav Singh"
-ROLE             = "B.Tech CSE Student"
-FOCUS            = "Software Development"
-INTERESTS        = ["Android", "AI/ML", "Problem Solving"]
-CURRENT_BUILD    = "KAVACH"
-STATUS           = "Learning | Building | Improving"
-
-vaibhav@github:~$ _
-```
+<p align="center">
+  <i>"I don't just want to learn technology. I want to build with it."</i>
+</p>
 
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== ABOUT ===================== -->
 
-## `> ./about_me.py`
+## `01 // ABOUT_ME`
 
 ```python
-class Vaibhav:
+class VaibhavSingh:
 
-    def __init__(self):
-        self.role = "Aspiring Software Developer"
+    role = "B.Tech CSE Student"
 
-        self.interests = [
-            "Android Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Problem Solving"
-        ]
+    interests = [
+        "Android Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Problem Solving"
+    ]
 
-        self.current_project = "KAVACH"
+    current_project = "KAVACH"
 
-        self.mission = (
-            "Build technology that solves "
-            "real-world problems."
-        )
+    mission = "Build practical technology for real-world problems"
 
-    def mindset(self):
-        return "Learn -> Build -> Break -> Improve -> Repeat"
-
-
-me = Vaibhav()
-
-print(me.mindset())
+    mindset = "Learn → Build → Break → Improve → Repeat"
 ```
 
 
 <!-- ===================== TECH STACK ===================== -->
 
-## `> ./tech_stack`
+## `02 // TECH_ARSENAL`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,androidstudio,firebase,git,github,vscode&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,androidstudio,firebase,git,github,vscode&perline=9" />
+
 </p>
-
-<br>
-
-
-<!-- ===================== KAVACH ===================== -->
-
-## `> ./current_build`
-
-<h3 align="center">KAVACH</h3>
 
 <p align="center">
-  <b>Smart Safety & Emergency Response System</b>
+
+`C` • `C++` • `Python` • `Kotlin` • `Android Studio` • `Firebase` • `Git` • `GitHub`
+
 </p>
+
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+
+<p align="center">
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,50:8B5CF6,100:FF00C8"/>
+</p>
+
+
+<!-- ===================== CURRENT PROJECT ===================== -->
+
+## `03 // CURRENT_BUILD`
+
+<div align="center">
+
+# KAVACH
+
+### Smart Safety & Emergency Response System
+
+`ANDROID` `KOTLIN` `FIREBASE` `SAFETY TECH`
+
+</div>
 
 ```text
-                   ┌─────────────────┐
-                   │     KAVACH      │
-                   └────────┬────────┘
-                            │
-                ┌───────────▼───────────┐
-                │      SOS TRIGGER      │
-                └───────────┬───────────┘
-                            │
-         ┌──────────────────┼──────────────────┐
-         │                  │                  │
-         ▼                  ▼                  ▼
- Emergency Call       GPS Location        SMS Alerts
-         │                  │                  │
-         └──────────────────┼──────────────────┘
-                            │
-                            ▼
-                 Offline Communication
-                            │
-                            ▼
-                   Safety Assistance
+                    ╔════════════════════╗
+                    ║       KAVACH       ║
+                    ║  SAFETY PLATFORM   ║
+                    ╚═════════╤══════════╝
+                              │
+                              ▼
+                    ┌─────────────────┐
+                    │   SOS TRIGGER   │
+                    └────────┬────────┘
+                             │
+            ┌────────────────┼────────────────┐
+            │                │                │
+            ▼                ▼                ▼
+     EMERGENCY CALL      GPS LOCATION      SMS ALERT
+            │                │                │
+            └────────────────┼────────────────┘
+                             │
+                             ▼
+                  OFFLINE COMMUNICATION
+                             │
+                             ▼
+                   SMART SAFETY RESPONSE
 ```
 
 <p align="center">
-  Building technology focused on smarter and faster emergency response.
+  <b>Goal:</b> Build a smarter, faster and more accessible emergency response system.
 </p>
 
 
-<!-- ===================== NEON DIVIDER ===================== -->
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-
-<!-- ===================== CURRENT LEARNING ===================== -->
-
-## `> ./currently_learning`
+## `04 // CURRENTLY_LOADING`
 
 ```javascript
-const learning = {
-    programming: ["C", "C++", "Python", "Kotlin"],
-    development: ["Android Development", "Firebase"],
-    exploring: ["Artificial Intelligence", "Machine Learning"],
-    tools: ["Git", "GitHub", "Android Studio"],
-    nextGoal: "Turn ideas into working products"
-};
+const vaibhav = {
+
+    learning: [
+        "Advanced C++",
+        "Android Development",
+        "Kotlin",
+        "Firebase",
+        "Artificial Intelligence",
+        "Machine Learning"
+    ],
+
+    building: "KAVACH",
+
+    nextMission: "Convert ideas into real products",
+
+    systemStatus: "ONLINE"
+}
 ```
 
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== DEVELOPMENT MODE ===================== -->
 
-## `> ./github_stats`
+## `05 // DEVELOPMENT_MODE`
+
+```text
+IDEA
+ │
+ ▼
+RESEARCH
+ │
+ ▼
+DESIGN
+ │
+ ▼
+CODE
+ │
+ ▼
+TEST
+ │
+ ▼
+BREAK SOMETHING :)
+ │
+ ▼
+DEBUG
+ │
+ ▼
+IMPROVE
+ │
+ ▼
+SHIP
+```
+
+
+<!-- ===================== STATS ===================== -->
+
+## `06 // SYSTEM_STATS`
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=9D4EDD&text_color=ffffff"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff"/>
 
 </p>
 
@@ -176,30 +245,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </p>
 
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ===================== ACTIVITY ===================== -->
 
-## `> ./activity`
+## `07 // ACTIVITY_LOG`
 
 <p align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000"/>
 
 </p>
 
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-## `> ./contribution_snake`
+## `08 // CONTRIBUTION_MATRIX`
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -208,7 +276,37 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITORS&style=for-the-badge"/>
+
+</p>
+
+
+<!-- ===================== MOTTO ===================== -->
+
+## `09 // CORE_PROTOCOL`
+
+```bash
+vaibhav@github:~$ ./principles
+
+[01] LEARN     → Stay curious
+[02] BUILD     → Turn ideas into code
+[03] FAIL      → Find what doesn't work
+[04] DEBUG     → Understand the problem
+[05] IMPROVE   → Build it better
+[06] REPEAT    → Never stop growing
+
+SYSTEM STATUS : ONLINE
+CURRENT MODE  : BUILDING
+```
+
+<br>
+
+
+<!-- ===================== ANIMATED END ===================== -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=9D4EDD&center=true&vCenter=true&width=700&lines=%3E+Think.;%3E+Build.;%3E+Break.;%3E+Debug.;%3E+Improve.;%3E+Repeat.;%3E+See+you+in+the+next+commit." />
 
 </p>
 
@@ -216,31 +314,20 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAM
 <!-- ===================== FINAL TERMINAL ===================== -->
 
 ```bash
-vaibhav@github:~$ ./mission
+vaibhav@github:~$ exit
 
-> Think.
-> Code.
-> Build.
-> Improve.
-> Repeat.
+Saving progress...
+Syncing ideas...
+Preparing next build...
 
-[ SYSTEM STATUS: ONLINE ]
+[ SESSION TERMINATED ]
 
-vaibhav@github:~$ █
+█
 ```
-
-
-<!-- ===================== ANIMATED ENDING ===================== -->
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=9D4EDD&center=true&vCenter=true&width=650&lines=Code.+Build.+Improve.+Repeat.;Turning+Ideas+Into+Reality.;Building+One+Commit+at+a+Time.;Thanks+for+visiting+my+profile." />
-
-</p>
 
 
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00CC,50:7B2CFF,100:00F5FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF00C8,50:7C3AED,100:00E5FF"/>
 </p>
