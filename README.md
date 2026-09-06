@@ -1,5 +1,15 @@
-<h1 align="center">Hi, I'm Vaibhav Singh</h1>
+2. CYBER / HACKER STYLE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Android+Development+%7C+AI%2FML;Building+KAVACH;Learning+One+Commit+at+a+Time" />
-</p>
+VAIBHAV.SYS
+
+[ SYSTEM ONLINE ]
+
+Developer        : Aspiring Software Engineer
+Focus            : Android + AI/ML
+Languages        : C/C++ | Kotlin
+Current Build    : KAVACH
+Mission          : Build things that matter
+
+> code
+> build
+> improve
