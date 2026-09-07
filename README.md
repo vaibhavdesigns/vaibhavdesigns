@@ -1,1 +1,1 @@
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1800&pause=500&color=FF1493&center=true&vCenter=true&width=900&lines=VAIBHAV+SINGH;B.Tech+CSE+Student;C+%2F+C%2B%2B+Developer;Building+KAVACH;Exploring+Android+%26+AI%2FML;Learning.+Building.+Improving." /></p>
