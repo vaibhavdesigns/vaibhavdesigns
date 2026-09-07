@@ -10,11 +10,7 @@
   <img src="./vaibhav-neon.gif" width="220" alt="Vaibhav Singh" /> 
 </p>
 
-<p align="center">
-  <img src="./profile.jpg"
-       width="220"
-       alt="Vaibhav Singh" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=6000&pause=700&color=FFB6D9&center=true&vCenter=true&width=1000&lines=C+%2F+C%2B%2B+Learner;Exploring+Android+Development;Interested+in+AI+%26+Machine+Learning;Currently+Building+KAVACH;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
