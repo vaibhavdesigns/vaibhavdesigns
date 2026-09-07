@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=6000&pause=700&color=FF69B4&center=true&vCenter=true&width=900&lines=VAIBHAV+SINGH;B.Tech+CSE+Student;Developer+in+Progress" />
 </p>
+<p align="center"> 
+  <img src="./vaibhav-neon.gif" width="220" alt="Vaibhav Singh" /> 
+</p>
 
 <p align="center">
   <img src="./profile.jpg"
@@ -31,12 +34,7 @@
   <br>
   My current project is <b>KAVACH</b> — a Smart Safety & Emergency Response App.
 </p>
-<p align="center"> 
-  <img src="./vaibhav-neon.gif" width="220" alt="Vaibhav Singh" /> 
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=6000&pause=700&color=FF69B4&center=true&vCenter=true&width=850&lines=%3E+Code.;%3E+Create.;%3E+Learn.;%3E+Improve.;%3E+Repeat." />
-</p>
+
 
 <p align="center">
   <img width="100%"
